@@ -1,0 +1,26 @@
+1. Characterizing the listener's audio aura:
+By calculating the average energy, valence, and danceability of the listener’s top 100 songs, we can roughly describe their audio aura. For example:
+
+Energy: medium-high → energetic songs
+
+Valence: medium → songs are moderately happy
+
+Danceability: high → songs are easy to dance to
+
+So, the listener’s audio aura could be described as energetic, moderately happy, and danceable.
+
+2. Why this might not be representative:
+
+Averages hide extremes; very sad and very happy songs may cancel out.
+
+Top 100 songs may not represent all listening habits.
+
+All songs are treated equally, ignoring how often each song is played.
+
+3. Better ways to calculate the aura:
+
+Weighted averages using play counts.
+
+Clustering songs by mood to find dominant moods.
+
+Include more data beyond the top 100 songs and consider additional features like tempo or key.

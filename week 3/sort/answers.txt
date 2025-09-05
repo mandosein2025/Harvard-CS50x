@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: In this method, the system repeatedly compares adjacent elements and swaps them if they are in the wrong order. This process continues until no more swaps are needed, which means the list is sorted. The name "bubble" comes from the way smaller elements gradually "bubble up" to the top of the list. It is one of the slowest sorting algorithms, especially for large datasets.
+
+sort2 uses: Merge Sort
+
+How do you know?: In this method, the system recursively divides the list of numbers into two halves until each sublist contains only one element. Then, it merges these sublists back together in a sorted manner. This divide-and-conquer approach makes Merge Sort much faster than many other algorithms, especially for large datasets. It consistently performs well with a time complexity of O(n log n).
+
+sort3 uses: Selection Sort
+
+How do you know?: This method is one of the slowest sorting approaches. It works by repeatedly finding the smallest element from the unsorted portion of the list and placing it at the beginning. The process continues until the entire list is sorted. Although simple to understand and implement, Selection Sort is very inefficient for large datasets due to its O(n²) time complexity. It’s like searching for a word in a dictionary by flipping through every single page — slow and impractical.

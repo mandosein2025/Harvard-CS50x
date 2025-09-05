@@ -7,7 +7,7 @@ Here are all the 9 Problem Sets and 1 Final Project I have completed. All files 
 :link: <a href="">Live Demo Final Project</a>
 <br>
 
-<img src="https://raw.githubusercontent.com/T31K/Harvard-cs50/master/CS50%20Wong%20Teik%20Mun.png">
+<img src="harvard-CS50x.png">
 
 
 This repo is not intended for cheating purposes, please do not copy the source code and pass it as your own.

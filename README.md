@@ -8,4 +8,10 @@ This is CS50x, Harvard University's introduction to the intellectual enterprises
 
 [Live Demo Final Project](https://www.youtube.com/watch?v=jFaOT7lV1io)
 
-This repo is not intended for cheating purposes, please do not copy the source code and pass it as your own.
+<br/>
+
+## :warning: Disclaimer:
+
+### ❗ **The following codes are for educational purpose only and not intended to be used / submitted as your own solutions.**
+
+### ❗ **Cheating violates the Academic Honesty of the course, not to mention it's totally pointless if you actually want to learn programming.**
